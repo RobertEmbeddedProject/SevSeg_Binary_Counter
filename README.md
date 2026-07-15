@@ -4,9 +4,9 @@
 A small ESP32 project written in C with ESP-IDF. The counter displays the current value in decimal on a two-digit seven-segment display while six LEDs show the same value in binary.
 
 <p align="center">
-<img width="45%" alt="IMG_9510" src="https://github.com/user-attachments/assets/f7cb0edd-92b1-4d4b-838b-92a945998d18" />
-<img width="45%" alt="IMG_9509" src="https://github.com/user-attachments/assets/9357cf2a-9914-4681-a36c-90b42907762f" />
-<img width="45%" alt="IMG_9508" src="https://github.com/user-attachments/assets/10c6d870-b4f2-4d33-b2ca-2af1188d3f09" />
+<img width="300" alt="IMG_9510" src="https://github.com/user-attachments/assets/f7cb0edd-92b1-4d4b-838b-92a945998d18" />
+<img width="300" alt="IMG_9509" src="https://github.com/user-attachments/assets/9357cf2a-9914-4681-a36c-90b42907762f" />
+<img width="300" alt="IMG_9508" src="https://github.com/user-attachments/assets/10c6d870-b4f2-4d33-b2ca-2af1188d3f09" />
 </p>
 
 ## Features
